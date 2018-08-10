@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>2016 Election Voting by County</title>
+    <meta name="description" content="View a goegraphical representation of the 2016 election votes.">
+    <meta name="keywords" content="2016 Election">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <style>
+
+    body {
+    background-color: #999;
+    text-align: center;
+    }
+    .chart {
+    background-color: #FFF;
+    margin: 30px auto;
+    display: block;
+    box-shadow: 5px 5px 10px 5px #333;
+    border-raius: 10px;
+    width: 980px;
+    padding: 5px;
+    }
+    .county {
+    stroke: #000;
+    stroke-width: .3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    }
+    .state {
+    stroke: #000;
+    stroke-width: 1px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    }
+    svg {
+    display: block;
+    margin: 20px auto;
+    }
+    .tooltip {
+    position: absolute;
+    background-color: #00FFFF;
+    color: #000;
+    padding: 5px;
+    border-radius: 3px;
+    text-align: left;
+    }
+
+  </style>
+
+</head>
+
+  <body>
+    <div id="chart" class="chart">
+      <div id="title">
+        <h1>2016 Election Votes by County</h1>
+      </div>
+    </div>
+    <script>
+    var dataURL = "https://raw.githubusercontent.com/natrivera/2016_votes_by_county/master/2016_votes_by_county.csv";
+    var dataSet;
+    var statArr;
+    //
+    //Get THE DATA
+    var req=new XMLHttpRequest();
+    req.open("GET", dataURL ,true);
+    req.send();
+    req.onload=function(){
+    dataSet = csvJSON( req.responseText);
+    run();
+
+    stats();
+    //console.log(100110110000 + 101111011000);
+
+    };
+    //END OF GET THE DATA
+    ////
+
+
+    function run() {
+
+    var path = d3.geoPath();
+
+    var svg = d3.select("#chart")
+               .append("svg")
+               .attr("width" , 950)
+               .attr("height" , 600);
+
+    var tooltip = d3.select("body").append("div")
+              .attr("class", "tooltip")
+              .attr("id", "tooltip")
+              .style("opacity", 0);
+
+    //go into data and start building map
+      d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
+        if (error) throw error;
+
+    //for each element in the data add a county
+        svg.append("g")
+            .selectAll("path")
+            .data(topojson.feature(us, us.objects.counties).features)
+            .enter()
+            .append("path")
+            .attr("class", "county")
+            .attr("d", path)
+            .attr("fill" , (d) => getColor(d.id))
+            .on("mouseover" , (d) => {
+                tooltip
+                  .style("opacity" , 1)
+                  .style("left" , d3.event.pageX - 40 + "px")
+                  .style("top" , d3.event.pageY - 125 + "px")
+                  .html( getText(d.id));
+              })
+            .on("mouseout" , (d) => {
+                tooltip.style("opacity" , 0);
+              });//
+
+        //for each element in the data add a county
+        svg.append("g")
+            .selectAll("path")
+            .data(topojson.feature(us, us.objects.states).features)
+            .enter()
+            .append("path")
+            .attr("class", "state")
+            .attr("d", path)
+            .attr("fill" , "none")
+    });//end of getJSON //
+
+    }
+
+    //var csv is the CSV file with headers
+    function csvJSON(csv){
+
+    var lines=csv.split("\n");
+
+    var result = [];
+
+    var headers=lines[0].split(",");
+
+    for(var i=1;i<lines.length;i++){
+
+      var obj = {};
+      var currentline=lines[i].split(",");
+
+      for(var j=0;j<headers.length;j++){
+        obj[headers[j]] = currentline[j];
+      }
+
+      result.push(obj);
+
+    }
+
+    //return result; //JavaScript object
+    return result; //JSON
+    }
+
+    function getText(id) {
+    var out = "";
+    id = parseInt(id);
+    for(var j = 0; j < dataSet.length; j++) {
+      if(dataSet[j].fips == id) {
+        var total = parseInt(dataSet[j].total_votes).toLocaleString();
+        var gop = parseInt(dataSet[j].votes_gop).toLocaleString();
+        var dem = parseInt(dataSet[j].votes_dem).toLocaleString();
+        var dem_per = (parseInt(dataSet[j].votes_dem) / parseInt(dataSet[j].total_votes)) * 100;
+        var gop_per = (parseInt(dataSet[j].votes_gop) / parseInt(dataSet[j].total_votes)) * 100;
+        dem_per = dem_per.toFixed(1);
+        gop_per = gop_per.toFixed(1);
+        out = dataSet[j].county_name + ", " +
+              dataSet[j].state_abbr + "<br>" +
+              "Total Votes: " + total + "<br>" +
+              "D - " + dem + " -- " + dem_per + "%" + "<br>" +
+              "R - " + gop + " -- " + gop_per + "%" + "<br>";
+      }
+    }
+    return ((out != "") ? out : id);
+    }
+
+    function getColor(id) {
+    var out = "gray";
+    id = parseInt(id);
+    for(var j = 0; j < dataSet.length; j++) {
+      if(dataSet[j].fips == id) {
+        var dem = parseInt(dataSet[j].votes_dem);
+        var gop = parseInt(dataSet[j].votes_gop);
+        if( dem > gop) {
+          out = "blue";
+        } else {
+          out = "red";
+        }
+      }
+    }
+    return out;
+    }
+
+    function getNumber(num) {
+    var out = 0;
+    var temp = parseInt(num);
+    if(!isNaN(temp)) {
+      out = temp;
+    }
+    return out;
+    }
+
+    function stats() {
+    var sum = 0;
+    var demSum = 0;
+    var gopSum = 0;
+    for(var i = 0 ; i < dataSet.length ; i++) {
+      sum += getNumber(dataSet[i].total_votes);
+      gopSum += getNumber(dataSet[i].votes_gop);
+      demSum += getNumber(dataSet[i].votes_dem);
+    }
+    var dem_per = (demSum / sum) * 100;
+    var gop_per = (gopSum / sum) * 100;
+    console.log(demSum + " " + dem_per);
+    console.log(gopSum + " " + gop_per);
+    console.log(sum);
+
+    }//
+
+    </script>
+
+  </body>
+</html>
