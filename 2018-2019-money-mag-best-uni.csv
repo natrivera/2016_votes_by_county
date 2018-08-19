@@ -1,0 +1,728 @@
+﻿College Name,City,State,SAT,ACT,price-without-aid,price-with-avg-grant,students-with-need-who-get-grants,Average-Student-Debt,Early-career-earnings
+Princeton University,Princeton, NJ,1500,34,67700,19000,1.00,7500,69800
+University of California-San Diego,La Jolla, CA,1310,30,32900,15900,0.95,18500,58600
+University of California-Irvine,Irvine, CA,1200,27,34700,14800,0.96,17000,54900
+University of California-Los Angeles,Los Angeles, CA,1320,31,34700,15300,0.96,16300,57500
+Stanford University,Stanford, CA,1480,33,70800,17900,0.98,12500,73300
+Massachusetts Institute of Technology,Cambridge, MA,1530,34,69000,23200,0.96,17300,81500
+University of California-Berkeley,Berkeley, CA,1410,33,37900,18400,0.99,14200,65400
+CUNY Bernard M Baruch College,New York, NY,1240,NA,32500,10200,0.89,10800,54500
+University of Michigan-Ann Arbor,Ann Arbor, MI,1410,31,30200,17300,0.82,20100,59300
+University of Virginia-Main Campus,Charlottesville, VA,1350,31,33000,17100,0.84,19500,59500
+University of California-Davis,Davis, CA,1190,28,36600,17200,0.96,14700,56700
+California Institute of Technology,Pasadena, CA,1560,35,70600,28800,1.00,14400,78800
+Rice University,Houston, TX,1490,34,64700,23700,0.98,10200,65700
+University of Pennsylvania,Philadelphia, PA,1480,34,73400,24600,0.99,20600,68100
+Yale University,New Haven, CT,1510,34,73000,19700,1.00,13500,66800
+Harvard University,Cambridge, MA,1520,34,71300,17400,1.00,6500,69200
+Texas A & M University-College Station,College Station, TX,1190,27,29200,16600,0.82,18800,57200
+Vanderbilt University,Nashville, TN,1510,34,69000,24900,0.92,14000,61100
+Georgia Institute of Technology-Main Campus,Atlanta, GA,1410,32,29500,14300,0.87,24000,68100
+University of Washington-Seattle Campus,Seattle, WA,1250,29,27200,10800,0.77,15000,57300
+Massachusetts Maritime Academy,Buzzards Bay, MA,1050,23,26300,15100,0.71,27000,63100
+California State University-Long Beach,Long Beach, CA,1050,23,24600,10600,0.80,15000,49200
+University of Florida,Gainesville, FL,1280,29,21600,15800,0.65,15800,52200
+Washington and Lee University,Lexington, VA,1390,32,67500,25600,1.00,21500,59700
+University of Illinois at Urbana-Champaign,Champaign, IL,1380,29,30800,17900,0.64,20500,58600
+SUNY at Binghamton,Vestal, NY,1320,30,26700,17800,0.83,19500,56400
+The University of Texas at Austin,Austin, TX,1280,29,26100,17200,0.80,22300,56900
+University of Maryland-College Park,College Park, MD,1320,31,27100,16900,0.78,19500,57600
+Virginia Polytechnic Institute and State University,Blacksburg, VA,1210,NA,26900,18500,0.71,24000,58600
+University of Notre Dame,Notre Dame, IN,1450,34,71100,28700,0.97,21500,62500
+North Carolina State University at Raleigh,Raleigh, NC,1260,29,24300,14000,0.90,20800,53800
+University of California-Riverside,Riverside, CA,1070,24,35500,13800,0.96,19100,51600
+Duke University,Durham, NC,1480,33,73500,21400,0.96,7500,65300
+Stony Brook University,Stony Brook, NY,1260,29,26100,14600,0.84,19000,54300
+The College of New Jersey,Ewing, NJ,1200,28,35300,24100,0.39,23300,54400
+Williams College,Williamstown, MA,1440,33,72300,19500,1.00,14600,62000
+University of Chicago,Chicago, IL,1530,34,77600,33400,0.98,14500,58100
+University of California-Santa Barbara,Santa Barbara, CA,1260,30,37000,16300,0.93,16500,54900
+James Madison University,Harrisonburg, VA,1130,25,26700,17500,0.51,20900,53400
+Purdue University-Main Campus,West Lafayette, IN,1200,28,23400,12600,0.64,21500,58000
+Michigan State University,East Lansing, MI,1130,27,29200,16100,0.74,25500,51800
+College of the Holy Cross,Worcester, MA,1290,29,67800,29000,0.82,27500,56000
+Swarthmore College,Swarthmore, PA,1420,32,70500,21100,1.00,19500,60000
+Dartmouth College,Hanover, NH,1460,32,73600,22700,0.96,13500,66300
+California State University-Dominguez Hills,Carson, CA,850,17,22900,3500,0.86,14000,46200
+Georgetown University,Washington, DC,1420,32,73300,28600,0.88,15500,61400
+California State Polytechnic University-Pomona,Pomona, CA,1030,24,26700,13500,0.79,19000,53600
+University of Wisconsin-Madison,Madison, WI,1310,29,26300,17000,0.77,22300,53400
+California State University-Stanislaus,Turlock, CA,910,19,21000,8100,0.87,15000,47000
+University of Connecticut,Storrs, CT,1230,29,31800,20500,0.72,21500,55400
+California State University-Los Angeles,Los Angeles, CA,880,18,25400,4200,0.95,12900,47100
+Bates College,Lewiston, ME,NA,NA,70500,25800,1.00,14500,55800
+Union College,Schenectady, NY,NA,NA,70300,41500,0.94,27000,58500
+Barnard College,New York, NY,1370,31,73000,24500,0.99,17800,53500
+Colgate University,Hamilton, NY,1380,32,71500,24100,0.99,16100,61400
+Columbia University in the City of New York,New York, NY,1500,34,76000,24700,0.99,21500,66000
+College of William and Mary,Williamsburg, VA,1360,31,38300,18000,0.86,19500,54400
+University of North Carolina at Chapel Hill,Chapel Hill, NC,1320,31,26200,10800,0.88,16500,51200
+Brown University,Providence, RI,1470,33,72800,27100,0.94,15000,63000
+Boston College,Chestnut Hill, MA,1360,32,72300,29200,0.88,19000,59200
+San Jose State University,San Jose, CA,1040,23,28800,14800,0.93,15000,58500
+California State University-Chico,Chico, CA,990,22,25000,14700,0.78,17000,52700
+Virginia Military Institute,Lexington, VA,1150,26,31300,17400,0.81,25000,62200
+California Polytechnic State University-San Luis Obispo,San Luis Obispo, CA,1260,29,27800,19900,0.88,18700,61100
+Rutgers University-New Brunswick,New Brunswick, NJ,1230,NA,32300,16800,0.70,22200,55800
+California State University-Fresno,Fresno, CA,910,19,20900,6600,0.88,15000,47800
+California State University-San Bernardino,San Bernardino, CA,880,18,24800,6900,0.89,16500,45500
+University of Delaware,Newark, DE,1170,26,28500,17100,0.83,24200,54300
+Babson College,Wellesley, MA,1270,29,70100,29500,0.95,26000,66600
+Amherst College,Amherst, MA,1460,33,73000,20500,1.00,13000,60200
+Pomona College,Claremont, CA,1440,33,71400,19500,1.00,11000,57500
+Clemson University,Clemson, SC,1250,29,30300,19100,0.82,21500,54300
+Davidson College,Davidson, NC,1350,31,68300,30000,0.98,17000,53100
+Haverford College,Haverford, PA,1420,33,73300,22700,1.00,13000,54700
+SUNY College of Environmental Science and Forestry,Syracuse, NY,1170,25,28000,19400,0.99,19800,49700
+Hamilton College,Clinton, NY,1390,32,69300,26200,1.00,15800,58600
+University of Minnesota-Twin Cities,Minneapolis, MN,1320,29,28100,17400,0.84,20200,53400
+Bowdoin College,Brunswick, ME,NA,NA,69700,26700,1.00,18800,55500
+San Diego State University,San Diego, CA,1110,26,28900,15400,0.80,15300,51100
+Saint Johns University,Collegeville, MN,1040,25,57200,27500,0.98,27000,54700
+CUNY Queens College,Queens, NY,1090,NA,29000,9300,0.86,11000,48700
+Lafayette College,Easton, PA,1300,29,70300,28100,0.94,26000,61500
+Vassar College,Poughkeepsie, NY,1420,32,72100,23600,0.99,15800,52100
+California State University-Fullerton,Fullerton, CA,1020,22,28000,8800,0.76,15000,47400
+Bentley University,Waltham, MA,1180,28,67800,38200,0.98,26500,62000
+Northwestern University,Evanston, IL,1480,33,74700,31500,0.98,19400,59500
+University of Massachusetts-Amherst,Amherst, MA,1230,28,30800,21600,0.87,24000,53500
+Iowa State University,Ames, IA,1130,25,21100,14600,0.97,23900,52700
+California State University-Northridge,Northridge, CA,920,20,22700,7100,0.85,14200,47900
+Wellesley College,Wellesley, MA,1410,32,70700,21500,0.97,8900,53800
+Wake Forest University,Winston-Salem, NC,NA,NA,70800,25600,0.96,23000,56000
+College of Saint Benedict,Saint Joseph, MN,1010,25,58200,28800,0.96,26300,46300
+Cornell University,Ithaca, NY,1430,33,72000,32200,0.98,12000,65600
+University of Georgia,Athens, GA,1240,29,27000,16100,0.92,19100,50200
+Indiana University-Bloomington,Bloomington, IN,1180,27,25000,13600,0.80,22500,50300
+University of California-Santa Cruz,Santa Cruz, CA,1180,28,36900,17500,0.93,20000,53500
+George Mason University,Fairfax, VA,1160,27,29900,19400,0.78,19800,55100
+Citadel Military College of South Carolina,Charleston, SC,1060,23,29400,19800,0.79,23800,56100
+DePauw University,Greencastle, IN,1160,27,64100,33100,1.00,25600,52300
+University of New Hampshire-Main Campus,Durham, NH,1100,25,33800,24800,0.71,27000,50600
+Tufts University,Medford, MA,1450,33,72300,30100,0.93,18000,60400
+Brigham Young University-Provo,Provo, UT,1270,29,18800,13800,0.80,11000,55400
+Santa Clara University,Santa Clara, CA,1300,30,71100,40400,0.71,21500,63800
+University of Richmond,Richmond, VA,1320,31,66400,24100,0.98,21100,55400
+Johns Hopkins University,Baltimore, MD,1490,33,71500,29400,0.92,15000,63200
+Claremont McKenna College,Claremont, CA,1410,32,73500,32800,0.98,15000,63500
+SUNY at Albany,Albany, NY,1080,24,26300,16200,0.83,21100,49300
+University of Illinois at Chicago,Chicago, IL,1110,24,31400,12400,0.81,18800,52800
+CUNY John Jay College of Criminal Justice,New York, NY,980,NA,34700,9200,0.78,10000,43100
+Simmons College,Boston, MA,1170,27,59600,32000,1.00,26000,51300
+Wesleyan University,Middletown, CT,NA,NA,71600,22000,0.93,17500,55900
+Michigan Technological University,Houghton, MI,1200,28,29800,17500,0.79,26900,63000
+University of Southern California,Los Angeles, CA,1390,32,73900,35400,0.91,22400,59400
+Ramapo College of New Jersey,Mahwah, NJ,1080,24,31600,16800,0.48,22800,48100
+University of Portland,Portland, OR,1190,NA,60700,34100,0.78,24300,55100
+Arizona State University-Tempe,Tempe, AZ,1150,25,28200,14000,0.93,20300,51400
+SUNY Cortland,Cortland, NY,1070,24,25500,18700,0.72,21500,43400
+Lehigh University,Bethlehem, PA,1330,31,67500,29500,0.98,24300,65400
+Cooper Union for the Advancement of Science and Art,New York, NY,1420,31,66600,37300,1.00,16700,63900
+Ohio State University-Main Campus,Columbus, OH,1290,29,27700,19300,0.85,21500,51900
+California State University Maritime Academy,Vallejo, CA,NA,NA,28800,15700,1.00,25500,64600
+Florida State University,Tallahassee, FL,1200,27,22300,17700,0.77,20800,47000
+Northeastern University,Boston, MA,1420,33,69800,32200,0.91,27900,58300
+Franklin and Marshall College,Lancaster, PA,NA,NA,72100,24900,1.00,22000,53700
+Bucknell University,Lewisburg, PA,1290,30,71800,36900,0.95,27000,62300
+CUNY Hunter College,New York, NY,1160,NA,22600,11000,0.86,11500,48700
+Illinois State University,Normal, IL,NA,24,29600,19800,0.62,22000,47900
+Emory University,Atlanta, GA,1400,32,68600,26600,0.94,17200,56700
+Washington University in St Louis,Saint Louis, MO,1490,33,73700,30900,0.97,19900,60100
+Colby College,Waterville, ME,1370,32,70200,22600,1.00,19300,55200
+CUNY Lehman College,Bronx, NY,1000,NA,27800,6600,0.90,10200,45300
+Harvey Mudd College,Claremont, CA,1500,34,76200,38100,0.95,25500,81000
+St Lawrence University,Canton, NY,NA,NA,69900,33900,1.00,27000,52000
+Maine Maritime Academy,Castine, ME,1040,23,27900,20600,0.72,27000,63300
+University of Vermont,Burlington, VT,1200,28,34100,19100,0.93,22300,49500
+University of Iowa,Iowa City, IA,1170,26,23100,15200,0.73,21600,50700
+University at Buffalo,Buffalo, NY,1170,27,26800,17200,0.76,19500,50200
+College of the Ozarks,Point Lookout, MO,1090,23,30200,14300,1.00,N/A,38300
+Molloy College,Rockville Centre, NY,1080,24,51600,29900,0.93,27000,57100
+Colorado School of Mines,Golden, CO,1340,31,34500,26900,0.56,26000,71900
+College of Mount Saint Vincent,Bronx, NY,880,20,51200,18500,0.94,27000,48000
+Siena College,Loudonville, NY,NA,NA,55100,28800,1.00,27000,50200
+Trinity University,San Antonio, TX,1270,29,58200,30700,0.98,25500,51100
+CUNY Brooklyn College,Brooklyn, NY,1110,NA,22700,10500,0.82,10400,48200
+Gustavus Adolphus College,Saint Peter, MN,NA,NA,57100,26100,0.99,27000,48200
+Gettysburg College,Gettysburg, PA,NA,NA,68300,37200,0.95,22000,52600
+Towson University,Towson, MD,1070,23,26900,16700,0.62,17800,48200
+Wabash College,Crawfordsville, IN,1130,26,55900,26000,0.99,25000,58900
+Washington State University,Pullman, WA,1050,23,27900,19100,0.86,20400,52400
+California State University-Sacramento,Sacramento, CA,940,20,26400,9800,0.95,15800,50900
+Wheaton College - Illinois,Wheaton, IL,1290,30,48800,29900,0.99,22500,49600
+St Olaf College,Northfield, MN,1260,29,59700,29300,1.00,27000,49000
+Stevens Institute of Technology,Hoboken, NJ,1350,31,68800,39900,0.99,28300,70800
+Villanova University,Villanova, PA,1320,31,69900,35700,0.91,26500,61400
+Carnegie Mellon University,Pittsburgh, PA,1470,33,71800,37800,0.95,26300,70900
+Middlebury College,Middlebury, VT,1390,32,71100,23000,0.98,15900,56300
+Syracuse University,Syracuse, NY,1190,27,67100,34200,0.92,27000,53900
+The College of Saint Scholastica,Duluth, MN,1010,24,50300,24800,0.74,21200,48300
+Worcester Polytechnic Institute,Worcester, MA,NA,NA,66600,43700,0.97,27000,69200
+Fairfield University,Fairfield, CT,NA,NA,65900,41400,0.85,27000,57100
+Bethel University,Saint Paul, MN,1130,25,51600,29200,1.00,24400,47800
+Saint Mary's College,Notre Dame, IN,1070,25,56500,27900,1.00,27000,47100
+McDaniel College,Westminster, MD,1100,25,57200,25000,1.00,27000,48700
+Montclair State University,Montclair, NJ,NA,NA,31100,16200,0.63,23000,47400
+Art Center College of Design,Pasadena, CA,NA,NA,61000,47000,N/A,31300,59200
+Marquette University,Milwaukee, WI,1160,27,56600,36000,0.98,27000,54300
+Temple University,Philadelphia, PA,NA,NA,33200,22800,0.84,26000,48800
+St Catherine University,Saint Paul, MN,1080,22,51900,24200,0.76,28000,47500
+California State University-East Bay,Hayward, CA,NA,NA,25700,11600,0.94,16300,53900
+Assumption College,Worcester, MA,NA,NA,55900,31600,1.00,27000,50700
+SUNY College at Brockport,Brockport, NY,1020,23,24700,15300,0.81,20800,43200
+Providence College,Providence, RI,1140,26,66500,37800,0.98,27000,54700
+Lake Forest College,Lake Forest, IL,NA,NA,60100,26300,N/A,27000,51000
+Holy Family University,Philadelphia, PA,930,NA,48000,16800,0.94,27000,48300
+Martin Luther College,New Ulm, MN,1230,24,26200,19600,0.98,23100,34700
+Touro College,New York, NY,NA,NA,36000,20300,0.95,12500,55700
+Case Western Reserve University,Cleveland, OH,1390,32,67000,35600,0.97,24100,62400
+Brandeis University,Waltham, MA,1380,31,72600,34500,0.94,27000,55300
+MCPHS University,Boston, MA,1070,24,54600,40200,0.93,27000,61700
+University of Wisconsin-Eau Claire,Eau Claire, WI,NA,24,20600,15200,0.82,23300,49100
+University of Northern Iowa,Cedar Falls, IA,1050,23,21800,15900,0.56,20600,44900
+University of Rochester,Rochester, NY,NA,NA,71800,36700,1.00,24500,57500
+Rowan University,Glassboro, NJ,1130,25,31800,19400,0.55,20000,48400
+Westfield State University,Westfield, MA,990,22,24700,16700,0.69,22800,44200
+Boston University,Boston, MA,1320,30,72000,33900,0.99,27000,56100
+Occidental College,Los Angeles, CA,1310,30,73500,34300,0.99,23700,51800
+Merrimack College,North Andover, MA,NA,NA,59300,35400,0.99,27000,51900
+St. Thomas Aquinas College,Sparkill, NY,940,20,48800,22400,0.92,22500,46800
+University of St Francis,Joliet, IL,1010,23,45700,19300,0.99,25000,48000
+University of Minnesota-Crookston,Crookston, MN,950,22,24400,14400,0.91,20500,46500
+University of Scranton,Scranton, PA,1130,26,62600,36200,0.95,27000,52000
+Dickinson College,Carlisle, PA,NA,NA,70700,36900,0.98,21000,52400
+College of Saint Elizabeth,Morristown, NJ,820,19,53300,19400,N/A,25000,46900
+Clarkson University,Potsdam, NY,1180,27,67700,33500,0.99,27000,64200
+University of St Thomas,Saint Paul, MN,1170,27,56000,33100,0.98,26000,53400
+Dordt College,Sioux Center, IA,1060,25,44900,25900,1.00,23000,47200
+John Carroll University,University Heights, OH,1100,25,57200,29200,0.98,26900,47900
+New York University,New York, NY,1370,31,73500,37700,0.88,23300,58700
+New Jersey Institute of Technology,Newark, NJ,1210,26,37400,16500,0.96,23000,60800
+Missouri University of Science and Technology,Rolla, MO,1280,28,22500,14900,0.92,24600,65200
+College of Our Lady of the Elms,Chicopee, MA,950,21,52000,25600,0.96,25000,46700
+Salisbury University,Salisbury, MD,NA,NA,25700,19000,0.78,20200,47600
+University of Utah,Salt Lake City, UT,1180,24,24200,12200,0.82,15000,51100
+University of South Florida-Main Campus,Tampa, FL,1160,26,21900,12200,0.84,19100,46400
+Berea College,Berea, KY,1110,25,36200,3100,1.00,5800,39200
+Florida International University,Miami, FL,1120,25,24300,13900,0.79,17200,46200
+Western Washington University,Bellingham, WA,1110,26,24100,17400,0.77,19400,50600
+University of Wisconsin-La Crosse,La Crosse, WI,NA,25,17800,14200,0.63,23300,46200
+Fresno Pacific University,Fresno, CA,960,21,44100,19600,0.77,21500,42400
+University of La Verne,La Verne, CA,1030,23,61300,23900,0.66,25000,47200
+SUNY College at Geneseo,Geneseo, NY,1200,27,25700,18600,0.79,20900,47800
+St. Mary's University,San Antonio, TX,1040,22,45600,18100,0.98,27000,47800
+California State University-Bakersfield,Bakersfield, CA,NA,NA,26600,6600,0.90,13200,47700
+Kenyon College,Gambier, OH,1340,31,70800,30300,0.99,19000,51700
+Pepperdine University,Malibu, CA,1220,29,72600,42600,0.98,26000,53100
+Indiana Wesleyan University-Marion,Marion, IN,1050,24,38700,21000,0.83,24100,45200
+The University of Texas at Dallas,Richardson, TX,1260,28,28000,11000,0.89,18800,53600
+Stockton University,Galloway, NJ,1060,22,31000,15400,0.59,21100,44500
+Mount Saint Mary's University,Los Angeles, CA,920,20,60800,29100,0.80,25000,51400
+Denison University,Granville, OH,1290,30,66500,34400,1.00,26000,51000
+Le Moyne College,Syracuse, NY,1110,25,51200,25100,1.00,26200,47300
+University of Dayton,Dayton, OH,1130,27,59100,36500,0.99,26000,53700
+University of San Francisco,San Francisco, CA,1140,26,67600,37600,0.84,25000,56800
+University of Oklahoma-Norman Campus,Norman, OK,1200,26,29100,19300,0.57,20000,51900
+Duquesne University,Pittsburgh, PA,1140,27,53400,31100,0.97,27000,49600
+San Francisco State University,San Francisco, CA,980,21,27400,14200,0.89,17300,52900
+North Dakota State University-Main Campus,Fargo, ND,1150,24,22000,15700,0.58,23300,51400
+Dominican University of California,San Rafael, CA,1020,23,66000,36900,1.00,27000,51900
+Rensselaer Polytechnic Institute,Troy, NY,1380,30,71800,40200,1.00,27500,67500
+Skidmore College,Saratoga Springs, NY,1230,28,71100,25700,1.00,19500,51200
+Illinois Institute of Technology,Chicago, IL,1250,29,65300,27800,0.99,27000,60600
+Endicott College,Beverly, MA,NA,NA,51500,37100,0.82,27000,47600
+University of Evansville,Evansville, IN,1110,26,52100,23700,1.00,27000,48000
+University of Wisconsin-Platteville,Platteville, WI,NA,24,19400,15400,0.59,24300,53600
+Canisius College,Buffalo, NY,1080,25,53400,22300,0.99,24800,43800
+SUNY Maritime College,Throggs Neck, NY,1120,25,25900,17500,0.68,26500,71600
+Grinnell College,Grinnell, IA,1430,32,67800,32200,1.00,13200,48800
+Taylor University,Upland, IN,1100,26,46400,27300,1.00,24000,44900
+Smith College,Northampton, MA,NA,NA,71200,26000,0.98,19000,48800
+State University of New York at New Paltz,New Paltz, NY,1110,25,24800,15700,0.59,19000,44800
+Wofford College,Spartanburg, SC,1160,27,59100,27500,1.00,25700,47200
+Texas Tech University,Lubbock, TX,1110,25,24200,16400,0.86,22500,53400
+Pennsylvania State University-Main Campus,University Park, PA,1200,27,37200,26900,0.50,26800,55200
+Carleton College,Northfield, MN,1430,32,70500,30700,1.00,19500,53800
+Connecticut College,New London, CT,NA,NA,71100,29800,0.94,23600,53200
+West Chester University of Pennsylvania,West Chester, PA,1060,23,27400,20000,0.58,23500,46700
+Loyola Marymount University,Los Angeles, CA,1230,28,66300,44000,0.95,21700,53800
+Hope College,Holland, MI,1140,26,46500,29800,0.87,27000,46200
+Marist College,Poughkeepsie, NY,NA,NA,56200,38500,0.71,26000,51600
+SUNY Oneonta,Oneonta, NY,1070,24,24700,16600,0.81,21500,44200
+Adelphi University,Garden City, NY,1110,25,57700,30200,0.97,25500,51500
+Saint John Fisher College,Rochester, NY,1060,24,48900,29300,1.00,23900,44000
+Saint Mary's College of California,Moraga, CA,1060,25,67100,38300,0.98,25000,56000
+Oklahoma State University-Main Campus,Stillwater, OK,1090,24,24200,15000,0.76,20500,49700
+Saint Michael's College,Colchester, VT,NA,NA,58900,33600,0.99,28000,50400
+Loyola University Maryland,Baltimore, MD,NA,NA,66100,36700,0.76,27000,55100
+Salve Regina University,Newport, RI,NA,NA,58100,33200,1.00,27000,49900
+University of North Dakota,Grand Forks, ND,1080,24,21900,15800,0.70,24500,50900
+Concordia University-Saint Paul,Saint Paul, MN,NA,NA,35300,20900,0.93,22400,47200
+Niagara University,Niagara, NY,1030,23,48500,19900,0.98,25000,42100
+Rose-Hulman Institute of Technology,Terre Haute, IN,1320,30,66600,44800,0.85,27000,71600
+Immaculata University,Immaculata, PA,970,21,47100,31600,N/A,27000,47600
+Colorado College,Colorado Springs, CO,NA,NA,70300,25600,0.95,20500,49700
+Lewis University,Romeoville, IL,1100,24,46500,21700,0.95,24600,47400
+University of Nebraska-Lincoln,Lincoln, NE,1140,25,25700,17700,0.76,21700,48700
+Manhattan College,Riverdale, NY,1110,26,61700,35000,0.81,26000,60700
+John Brown University,Siloam Springs, AR,1130,26,39800,21100,0.91,21900,44000
+Calvin College,Grand Rapids, MI,1170,26,47900,27300,0.99,26400,47000
+Misericordia University,Dallas, PA,1050,24,48600,26500,1.00,27000,45000
+St. Joseph's College-New York,Brooklyn, NY,1010,23,35400,18100,0.99,21500,43700
+Aurora University,Aurora, IL,950,22,37900,19700,0.91,22300,44900
+Mount Holyoke College,South Hadley, MA,NA,NA,65400,29200,0.99,21200,48800
+Loras College,Dubuque, IA,1090,23,44900,19300,1.00,27000,44500
+Louisiana State University and Agricultural & Mechanical College,Baton Rouge, LA,1130,26,30400,16200,0.86,20900,51800
+Concordia College at Moorhead,Moorhead, MN,NA,NA,50700,25300,0.98,27000,44900
+Furman University,Greenville, SC,NA,NA,65200,33300,1.00,25400,48100
+Augustana University,Sioux Falls, SD,1080,26,46500,21400,0.99,27000,44800
+Saint Joseph's University,Philadelphia, PA,1140,26,62300,38700,0.92,23000,53300
+Waynesburg University,Waynesburg, PA,970,22,36900,19900,0.98,27000,43700
+Stonehill College,Easton, MA,NA,NA,61000,33300,0.97,27000,51800
+Bryant University,Smithfield, RI,NA,NA,61300,39200,0.70,27000,56300
+Lebanon Valley College,Annville, PA,1100,25,58800,28300,0.99,27000,46100
+Muhlenberg College,Allentown, PA,1230,28,66900,39400,0.97,26500,50000
+Keuka College,Keuka Park, NY,950,21,48600,25900,0.82,25900,43300
+Hobart William Smith Colleges,Geneva, NY,1260,28,71400,41700,0.99,27000,52400
+George Washington University,Washington, DC,1290,30,71000,42500,0.94,25000,56200
+Farmingdale State College,Farmingdale, NY,970,21,24700,9300,0.79,16000,49100
+Drake University,Des Moines, IA,1200,28,55300,30200,0.98,26000,49200
+Juniata College,Huntingdon, PA,NA,NA,59600,30200,0.98,27000,47600
+Saint Vincent College,Latrobe, PA,1050,23,50100,24600,0.80,27000,46200
+Milwaukee School of Engineering,Milwaukee, WI,1250,28,53300,25800,1.00,27000,63400
+Edgewood College,Madison, WI,1020,23,43700,25900,0.98,25500,46500
+Seton Hall University,South Orange, NJ,1160,25,58500,29900,0.58,25000,53900
+Saint Norbert College,De Pere, WI,1100,25,49300,26000,0.97,27000,47800
+University of Redlands,Redlands, CA,1090,25,68600,36700,0.99,28500,50200
+Bradley University,Peoria, IL,1100,25,47800,28700,0.96,27000,52000
+Westminster College - Pennsylvania,New Wilmington, PA,1050,23,50700,22400,0.99,27000,44400
+California State University-San Marcos,San Marcos, CA,960,21,25900,9600,0.90,18000,47900
+Ohio Northern University,Ada, OH,1130,26,47200,26100,0.99,27000,51400
+Centre College,Danville, KY,1210,29,55200,27400,0.99,27000,46700
+Kansas State University,Manhattan, KS,NA,NA,24900,17600,0.56,22500,50000
+Gonzaga University,Spokane, WA,1210,28,58700,36100,1.00,26400,53800
+DePaul University,Chicago, IL,NA,NA,57600,34400,0.86,23300,51500
+Seattle University,Seattle, WA,1180,28,61000,38300,0.91,24500,55000
+St Mary's College of Maryland,St. Mary's City, MD,1130,26,30400,21200,0.73,20400,50600
+University of Mary Washington,Fredericksburg, VA,1110,25,28100,22000,0.64,21500,50600
+Sonoma State University,Rohnert Park, CA,980,22,26700,17400,0.65,17500,50100
+Southern Methodist University,Dallas, TX,1320,30,74100,40300,0.73,21500,55000
+University of Arizona,Tucson, AZ,NA,NA,29000,17700,0.89,19000,52700
+Colorado State University-Fort Collins,Fort Collins, CO,1140,26,26600,17400,0.68,21000,49900
+Daemen College,Amherst, NY,NA,NA,44200,18400,0.98,20400,43400
+Oregon State University,Corvallis, OR,1120,25,26800,20900,0.80,23500,52200
+Saint Francis University,Loretto, PA,1060,24,53200,26700,0.56,27000,44800
+Concordia University-Nebraska,Seward, NE,1000,24,43500,20800,1.00,25300,38400
+Pacific Lutheran University,Tacoma, WA,1110,25,56100,27100,0.99,25800,50000
+Massachusetts College of Art and Design,Boston, MA,1070,24,30400,23300,0.80,25300,46500
+University of Miami,Coral Gables, FL,1300,30,67900,40200,0.51,19800,52700
+Miami University-Oxford,Oxford, OH,1240,29,32600,21700,0.85,24800,53500
+Louisiana Tech University,Ruston, LA,1090,24,20900,10200,0.92,19900,50300
+Kean University,Union, NJ,920,20,30000,17400,0.70,25000,45700
+Bethel College-Indiana,Mishawaka, IN,1030,23,41700,21000,N/A,26100,39800
+Augustana College,Rock Island, IL,NA,NA,54700,25300,0.98,27000,45000
+Spelman College,Atlanta, GA,1080,24,52900,34800,0.79,27000,47500
+Macalester College,Saint Paul, MN,1380,31,67900,30600,0.99,22700,49500
+Saint Louis University,Saint Louis, MO,1220,28,58600,35700,0.94,26000,51000
+Illinois College,Jacksonville, IL,NA,NA,43900,19700,1.00,27000,42800
+Cedar Crest College,Allentown, PA,990,22,53400,20600,1.00,27800,45200
+University of Minnesota-Duluth,Duluth, MN,1090,24,25000,16800,0.85,25000,49600
+Saint Mary's University of Minnesota,Winona, MN,1010,23,46400,22800,0.97,23300,48800
+Rochester Institute of Technology,Rochester, NY,1240,29,56000,31300,0.95,28000,58400
+California State University-Channel Islands,Camarillo, CA,NA,NA,29300,15500,N/A,15200,47700
+California State University-Monterey Bay,Seaside, CA,NA,NA,23900,12200,0.75,14000,46200
+Fordham University,Bronx, NY,1270,29,74000,40800,0.96,26000,54400
+Central Washington University,Ellensburg, WA,1060,21,23100,15100,0.84,20700,49000
+Clark University,Worcester, MA,NA,NA,56300,28300,0.97,27000,47600
+Gannon University,Erie, PA,1030,23,47700,23600,0.98,27000,48100
+Cedarville University,Cedarville, OH,1200,26,40100,24500,0.79,22500,48600
+Regis University,Denver, CO,1060,24,52400,28500,0.86,22900,53800
+The University of Findlay,Findlay, OH,990,23,46700,21600,1.00,25000,46500
+Albion College,Albion, MI,1050,23,58100,22200,1.00,27200,48500
+Quinnipiac University,Hamden, CT,1090,25,65300,40200,0.97,26000,52400
+Goshen College,Goshen, IN,1030,26,47600,18700,0.98,20100,42900
+La Salle University,Philadelphia, PA,980,22,46600,28700,0.97,27000,51100
+University of Wisconsin-Stout,Menomonie, WI,NA,22,20200,15100,0.72,25500,48000
+University of South Dakota,Vermillion, SD,1050,23,22800,17700,N/A,25000,45600
+Nebraska Wesleyan University,Lincoln, NE,1090,24,47700,25300,0.99,25000,43500
+Keene State College,Keene, NH,980,21,27900,20000,0.70,26300,46100
+Mississippi State University,Starkville, MS,NA,25,25000,16800,0.87,23300,47900
+University of Mount Olive,Mount Olive, NC,1090,20,31900,16200,0.92,28000,39800
+University of Wyoming,Laramie, WY,1090,24,20300,14100,0.66,18500,49700
+University of Central Florida,Orlando, FL,1180,26,22800,16700,0.71,18300,46400
+Messiah College,Mechanicsburg, PA,1150,26,49100,29000,0.99,26000,47600
+Truman State University,Kirksville, MO,1200,27,21600,13400,0.94,22700,45000
+SUNY College at Old Westbury,Old Westbury, NY,970,22,23900,10800,0.86,16200,45400
+University of Rhode Island,Kingston, RI,1070,25,30200,19700,0.86,23400,50900
+SUNY College at Plattsburgh,Plattsburgh, NY,1100,23,25200,15300,0.86,22000,43400
+Susquehanna University,Selinsgrove, PA,NA,NA,61200,28500,1.00,27000,47300
+Monmouth University,West Long Branch, NJ,1030,23,56200,31800,0.57,26700,48400
+University of Massachusetts-Lowell,Lowell, MA,1170,27,30600,19700,0.88,25000,55400
+Whitman College,Walla Walla, WA,1310,30,66100,36800,1.00,17500,50000
+Bryn Mawr College,Bryn Mawr, PA,1340,30,70100,34300,0.98,26000,50200
+Luther College,Decorah, IA,1060,26,55300,27300,1.00,27000,46400
+University of Pittsburgh-Pittsburgh Campus,Pittsburgh, PA,1290,30,34000,25300,0.74,26900,52100
+Allegheny College,Meadville, PA,NA,NA,62600,28500,1.00,29000,46700
+Trinity Christian College,Palos Heights, IL,1040,24,43300,24400,0.98,24600,44400
+Mount Mercy University,Cedar Rapids, IA,NA,21,45800,21600,0.98,22300,45800
+Wheaton College - Massachusetts,Norton, MA,NA,NA,67400,35200,0.99,26000,48900
+Ursinus College,Collegeville, PA,NA,NA,67800,33900,1.00,27000,50200
+Wartburg College,Waverly, IA,990,24,53100,24100,1.00,27000,46100
+Appalachian State University,Boone, NC,1140,25,19500,10900,0.74,20500,43900
+Illinois Wesleyan University,Bloomington, IL,1270,27,60200,33500,1.00,27000,49000
+Elon University,Elon, NC,1190,27,50800,36700,0.90,23300,49400
+Linfield College-McMinnville Campus,McMinnville, OR,1040,22,58100,30500,0.80,25000,49000
+Scripps College,Claremont, CA,1370,30,72800,40700,1.00,14000,51000
+Auburn University,Auburn, AL,1160,27,32000,23300,0.72,21500,50700
+University of Maine,Orono, ME,1070,24,24800,16900,0.87,26000,49000
+Texas Christian University,Fort Worth, TX,1180,28,64500,35800,0.93,21500,52900
+SUNY College of Technology at Alfred,Alfred, NY,950,22,25500,15400,N/A,14900,47900
+Knox College,Galesburg, IL,NA,NA,57900,25000,0.98,27000,45600
+University of the Pacific,Stockton, CA,1170,27,66400,36300,0.97,24600,55500
+Tulane University of Louisiana,New Orleans, LA,1330,31,71400,34900,0.97,27500,52300
+Yeshiva University,New York, NY,1230,27,62000,33300,N/A,19500,58900
+University of Nebraska at Kearney,Kearney, NE,930,22,23100,16700,0.85,21300,41900
+Beloit College,Beloit, WI,1220,27,60900,27700,0.98,27000,45300
+Grand Valley State University,Allendale, MI,1050,24,24800,17100,0.84,25000,44500
+Ithaca College,Ithaca, NY,NA,NA,62800,37600,0.98,25800,48700
+Kalamazoo College,Kalamazoo, MI,NA,NA,60700,30000,0.99,26500,47400
+University of San Diego,San Diego, CA,1210,28,67000,41400,0.95,22900,54400
+Carlow University,Pittsburgh, PA,970,22,44200,19600,0.81,27000,41800
+Radford University,Radford, VA,NA,NA,23800,15100,0.60,23000,46200
+Sewanee-The University of the South,Sewanee, TN,NA,NA,62400,33000,0.98,19000,46000
+Houghton College,Houghton, NY,1100,25,45500,23100,1.00,25500,41000
+Elmhurst College,Elmhurst, IL,1040,23,51200,20200,1.00,21500,46900
+Central College,Pella, IA,1120,24,51800,24400,1.00,27000,46200
+Austin College,Sherman, TX,1210,26,55100,24800,1.00,26000,48200
+South Dakota State University,Brookings, SD,1030,23,23400,23000,0.50,25100,47900
+Slippery Rock University of Pennsylvania,Slippery Rock, PA,1000,21,25000,18700,0.65,25000,42900
+Saint Peter's University,Jersey City, NJ,930,20,55300,15800,0.99,25000,50700
+University of Wisconsin-Oshkosh,Oshkosh, WI,NA,22,19500,14100,0.57,23700,45300
+University of North Carolina at Charlotte,Charlotte, NC,1120,24,24200,13000,0.76,23000,49300
+Lycoming College,Williamsport, PA,1030,23,55200,20900,1.00,27000,44500
+Augsburg College,Minneapolis, MN,1060,22,52500,26200,0.99,27000,47400
+Winona State University,Winona, MN,930,23,22300,18400,0.69,24000,46700
+Tennessee Technological University,Cookeville, TN,1080,24,27100,15800,0.55,16000,51000
+Madonna University,Livonia, MI,NA,21,35000,15900,0.88,25000,43700
+Lawrence University,Appleton, WI,1270,29,59900,31400,0.99,27400,47000
+The New School,New York, NY,1160,26,71100,48900,N/A,23900,50000
+California Lutheran University,Thousand Oaks, CA,1100,25,61300,31200,0.99,23000,48000
+University of South Carolina-Columbia,Columbia, SC,1210,28,27700,21400,0.44,23300,46900
+University of Missouri-Columbia,Columbia, MO,1160,26,27200,17500,0.80,21900,49100
+Millikin University,Decatur, IL,1000,23,48800,23600,0.89,27000,44300
+University of Kansas,Lawrence, KS,NA,26,25900,19300,0.76,20500,49500
+Tennessee State University,Nashville, TN,NA,NA,21800,10300,0.80,28000,46100
+University of Idaho,Moscow, ID,1050,24,21800,15900,0.73,24300,49300
+University of Maryland-Baltimore County,Baltimore, MD,1220,27,28200,16500,0.72,21200,54000
+St John's University-New York,Queens, NY,1080,25,61300,28500,0.78,26000,51800
+University of Saint Francis-Fort Wayne,Fort Wayne, IN,1000,22,43200,18300,0.99,25300,43600
+University of Denver,Denver, CO,1210,29,66900,35400,0.98,23700,51700
+Drexel University,Philadelphia, PA,1190,28,70400,41900,0.95,26200,58400
+University of Minnesota-Morris,Morris, MN,1150,25,24500,12400,0.96,19500,44400
+Bellarmine University,Louisville, KY,1070,25,60700,26600,0.98,25000,46900
+Wentworth Institute of Technology,Boston, MA,1120,25,55400,39300,0.84,27000,59200
+East Carolina University,Greenville, NC,1050,22,22500,13800,0.74,24800,45600
+Cardinal Stritch University,Milwaukee, WI,1010,20,43700,18600,0.94,27000,48000
+University of Maine at Farmington,Farmington, ME,NA,NA,23100,15400,0.91,27000,40100
+Westmont College,Santa Barbara, CA,1160,26,62400,37600,1.00,25100,50700
+Huntington University,Huntington, IN,1030,22,38200,23100,0.77,27000,37700
+Montana State University,Bozeman, MT,1130,25,21600,16100,0.69,24000,50900
+Maryville University of Saint Louis,Saint Louis, MO,1030,25,47200,28600,0.97,23700,45100
+Bay Path University,Longmeadow, MA,960,22,50500,23600,1.00,24000,41800
+Clarke University,Dubuque, IA,960,23,47000,25500,1.00,26000,42600
+Mount Vernon Nazarene University,Mount Vernon, OH,1050,23,42100,20700,0.99,26500,41300
+Moravian College,Bethlehem, PA,1010,23,59300,31400,1.00,27000,49600
+University of Oregon,Eugene, OR,1100,25,27500,16500,0.73,21100,47600
+Southwest Minnesota State University,Marshall, MN,920,21,21300,15900,0.71,21700,42300
+Loyola University Chicago,Chicago, IL,1150,27,61400,37500,0.96,25000,49600
+Dominican University,River Forest, IL,1060,23,46100,19600,0.99,25000,46600
+Bloomsburg University of Pennsylvania,Bloomsburg, PA,970,21,24900,17200,0.64,26000,46500
+Saint Anselm College,Manchester, NH,1140,26,58200,34500,1.00,27000,52500
+Fitchburg State University,Fitchburg, MA,990,21,24600,15400,0.70,22700,45400
+Lewis & Clark College,Portland, OR,1280,29,63600,38500,0.99,24500,46800
+Elizabethtown College,Elizabethtown, PA,1080,25,59900,30600,1.00,27000,46600
+University of Wisconsin-Whitewater,Whitewater, WI,1000,23,18200,13800,0.62,25000,46100
+Seattle Pacific University,Seattle, WA,1110,24,57800,31300,1.00,25600,49000
+Rivier University,Nashua, NH,NA,NA,49300,27000,0.97,25500,47500
+University of Arkansas,Fayetteville, AR,1120,26,25500,16500,0.76,21500,49100
+SUNY College at Oswego,Oswego, NY,1100,25,24700,17600,0.87,21500,42800
+Fairleigh Dickinson University-Metropolitan Campus,Teaneck, NJ,970,20,58000,19300,0.84,26000,47400
+Rockhurst University,Kansas City, MO,1080,26,52900,25500,1.00,20500,51500
+University of Detroit Mercy,Detroit, MI,1120,25,58800,24000,0.98,23500,50900
+University of Colorado Boulder,Boulder, CO,1190,28,30900,24400,0.76,19500,53400
+Mississippi University for Women,Columbus, MS,1080,21,19600,10800,0.69,15000,40500
+Pitzer College,Claremont, CA,NA,NA,72200,27400,0.98,15900,49000
+Rhodes College,Memphis, TN,1270,29,63000,32000,1.00,26200,47900
+Winston-Salem State University,Winston-Salem, NC,870,18,20300,11100,0.85,25700,44900
+Presbyterian College,Clinton, SC,1110,25,53200,21200,1.00,26100,46000
+Transylvania University,Lexington, KY,NA,NA,51800,25400,1.00,27000,46000
+Northwood University,Midland, MI,1000,22,41300,24200,0.85,21800,45600
+Rider University,Lawrenceville, NJ,1010,22,61100,31200,0.98,25800,48700
+Azusa Pacific University,Azusa, CA,1020,23,53700,30600,0.98,22500,47200
+Worcester State University,Worcester, MA,1010,24,26300,16800,0.81,20000,47600
+DeSales University,Center Valley, PA,1060,25,53600,27400,0.94,26000,47400
+University of Northwestern-St Paul,Saint Paul, MN,1100,24,44400,25600,0.97,22100,42900
+Framingham State University,Framingham, MA,990,23,26800,18300,0.81,24700,46900
+University of Nevada-Reno,Reno, NV,1090,24,24800,16100,0.77,18800,50300
+University of Wisconsin-River Falls,River Falls, WI,NA,23,20400,15100,0.57,22700,44400
+Saint Edward's University,Austin, TX,1110,25,60100,26400,0.90,25300,45600
+Franklin College,Franklin, IN,970,22,45400,23700,1.00,27000,45100
+Lincoln Memorial University,Harrogate, TN,1000,22,37400,17500,N/A,17000,41100
+University of North Carolina School of the Arts,Winston-Salem, NC,1140,25,22500,14400,0.86,27000,44200
+Biola University,La Mirada, CA,1090,24,55800,34700,0.98,24500,47000
+Central Connecticut State University,New Britain, CT,1000,22,25800,15900,0.61,22500,49900
+Wagner College,Staten Island, NY,NA,NA,63700,29200,0.99,26400,53900
+American University,Washington, DC,1250,29,65800,34100,0.87,24300,51800
+Lakeland University,Plymouth, WI,910,19,42200,22800,0.86,25500,45200
+Marian University - Wisconsin,Fond Du Lac, WI,NA,20,39900,23200,0.98,27000,46100
+Xavier University,Cincinnati, OH,1100,26,53600,29800,0.67,27000,48600
+Washington & Jefferson College,Washington, PA,NA,NA,61600,29100,0.85,27000,45800
+Willamette University,Salem, OR,NA,NA,63800,35000,0.99,26000,47700
+Longwood University,Farmville, VA,970,21,27600,20200,0.76,25000,44500
+University of Puget Sound,Tacoma, WA,NA,NA,65000,43400,0.99,27000,50500
+Otis College of Art and Design,Los Angeles, CA,NA,NA,66200,42300,0.99,27000,49600
+Iona College,New Rochelle, NY,1000,23,57200,29000,0.41,26000,52000
+Texas State University,San Marcos, TX,1030,23,23200,13600,0.81,21300,46900
+MidAmerica Nazarene University,Olathe, KS,890,22,43100,19800,0.96,18800,45700
+Ball State University,Muncie, IN,1080,22,24900,14400,0.59,25000,43100
+Unity College,Unity, ME,NA,NA,41500,27000,1.00,27000,38400
+The Sage Colleges,Troy, NY,NA,NA,46500,21600,0.74,23300,43200
+Georgian Court University,Lakewood, NJ,950,20,52200,24000,0.97,25000,42700
+Trinity College,Hartford, CT,NA,NA,73200,25100,0.97,21000,55600
+William Paterson University of New Jersey,Wayne, NJ,990,NA,29400,16700,0.68,24500,47800
+Sarah Lawrence College,Bronxville, NY,1290,29,72000,35300,0.97,13500,47600
+Ripon College,Ripon, WI,1010,24,53600,22400,0.99,28000,43600
+Felician University,Lodi, NJ,900,19,51800,19000,0.83,25000,51500
+Catholic University of America,Washington, DC,NA,NA,64000,38700,0.98,26100,52800
+West Virginia University,Morgantown, WV,1020,24,23000,11600,0.70,24000,50800
+Emmanuel College,Boston, MA,1120,25,58200,34200,1.00,27000,46700
+Franciscan University of Steubenville,Steubenville, OH,1170,25,38700,28300,0.99,22000,44400
+Butler University,Indianapolis, IN,1160,28,58100,35700,0.98,27000,48900
+Southwestern University,Georgetown, TX,1170,26,55600,27500,0.99,26900,50300
+Baylor University,Waco, TX,1220,28,61700,39000,0.97,25000,51600
+Point Loma Nazarene University,San Diego, CA,1140,26,51000,32200,0.94,25000,48300
+Valparaiso University,Valparaiso, IN,1100,26,54300,24300,1.00,27000,50700
+University of Tulsa,Tulsa, OK,1250,30,60900,29300,0.36,27000,55800
+North Central College,Naperville, IL,1080,25,52500,26000,1.00,25000,47200
+Covenant College,Lookout Mountain, GA,1180,27,47000,26600,0.99,21500,41700
+Simpson College,Indianola, IA,1080,24,51400,25100,0.98,27000,46500
+Agnes Scott College,Decatur, GA,NA,NA,55400,22900,1.00,27000,42900
+SUNY at Fredonia,Fredonia, NY,1010,25,24200,17800,0.74,25000,41800
+Christopher Newport University,Newport News, VA,1160,26,30400,24300,0.65,25000,47300
+St Francis College,Brooklyn Heights, NY,930,21,45600,15900,0.98,24400,49300
+University of Mississippi,Oxford, MS,1120,26,25400,15800,0.85,20000,45700
+Creighton University,Omaha, NE,1170,27,54700,32600,0.96,25300,50000
+Northwestern College,Orange City, IA,1040,25,44700,24300,0.96,25100,42200
+The College of Saint Rose,Albany, NY,NA,NA,48400,25000,0.81,23500,41700
+Walsh University,North Canton, OH,1000,22,44200,21700,0.80,27800,44900
+Ohio Wesleyan University,Delaware, OH,NA,NA,61800,30000,1.00,27000,47800
+University of Wisconsin-Stevens Point,Stevens Point, WI,NA,23,19400,13500,0.74,24400,43000
+Saint Ambrose University,Davenport, IA,NA,23,45900,25800,0.99,25800,44500
+University of Hawaii at Manoa,Honolulu, HI,1080,23,30200,14500,0.94,18800,48600
+Northern State University,Aberdeen, SD,960,21,21800,15400,0.83,24400,41700
+Mount St Mary's University,Emmitsburg, MD,1050,22,57400,32700,0.99,26000,46400
+University of North Carolina Wilmington,Wilmington, NC,1200,24,25200,17400,0.92,20500,43400
+Earlham College,Richmond, IN,NA,NA,60100,24200,1.00,26000,46000
+Oberlin College,Oberlin, OH,1350,31,73000,45200,0.99,26600,49400
+Whittier College,Whittier, CA,1030,23,62900,27500,0.88,25500,47000
+University of North Carolina at Asheville,Asheville, NC,1150,26,20400,12400,0.94,20600,40900
+University of North Texas,Denton, TX,1090,24,24500,11200,0.68,20000,46800
+University of the Sciences,Philadelphia, PA,1170,26,61500,37400,0.68,27000,54000
+Grace College and Theological Seminary,Winona Lake, IN,1050,24,34800,19400,0.95,21500,41100
+Texas A & M University-Commerce,Commerce, TX,980,21,22200,9700,0.90,20500,44200
+Salem State University,Salem, MA,990,22,26900,17800,N/A,24000,45600
+Carroll College,Helena, MT,1110,25,49700,27300,0.99,27000,45600
+Nazareth College,Rochester, NY,NA,NA,50600,30500,1.00,26500,41400
+St Bonaventure University,Saint Bonaventure, NY,1050,24,48500,25100,1.00,27000,45700
+Robert Morris University Illinois,Chicago, IL,NA,NA,46400,22800,0.91,24500,42600
+University of North Florida,Jacksonville, FL,1130,24,21700,14500,0.64,16000,45600
+University of Kentucky,Lexington, KY,1130,26,30200,19200,0.46,22800,48400
+Chapman University,Orange, CA,1210,28,71100,43700,0.90,20900,49200
+The University of Tennessee-Knoxville,Knoxville, TN,1150,27,31700,22300,0.88,20000,48000
+Pratt Institute-Main,Brooklyn, NY,1170,27,66900,47500,0.50,26300,49900
+King's College,Wilkes-Barre, PA,NA,NA,53300,27800,1.00,27000,44100
+Eastern Illinois University,Charleston, IL,NA,21,24200,15900,0.75,23700,43800
+Hanover College,Hanover, IN,1050,25,51700,24600,1.00,27000,44800
+Baldwin Wallace University,Berea, OH,NA,NA,47100,24000,1.00,27000,44500
+Rhode Island School of Design,Providence, RI,1210,27,69200,42300,0.91,27000,50500
+Shippensburg University of Pennsylvania,Shippensburg, PA,970,21,28900,19700,0.74,25000,46200
+Alfred University,Alfred, NY,1030,23,44700,23700,0.99,27000,48600
+University of Dallas,Irving, TX,1170,27,56200,27100,0.98,24000,49100
+Judson University,Elgin, IL,1070,22,43800,26500,0.34,23000,41900
+Westminster College - Utah,Salt Lake City, UT,1110,25,48900,26400,0.99,25000,48800
+Bridgewater State University,Bridgewater, MA,990,22,26800,16900,0.75,24600,44700
+Harding University,Searcy, AR,1100,25,30700,19700,0.92,27000,46100
+University of Missouri-St Louis,Saint Louis, MO,1010,24,25300,9400,0.82,21000,45800
+Goldey-Beacom College,Wilmington, DE,NA,NA,39600,16900,N/A,23700,47700
+Wilkes University,Wilkes-Barre, PA,1010,23,55300,26900,0.98,26000,48200
+Benedictine College,Atchison, KS,1060,25,44700,26600,1.00,27000,45800
+Marian University - Indiana,Indianapolis, IN,1020,22,49100,22600,0.43,27000,47600
+Western Carolina University,Cullowhee, NC,1020,23,22000,14700,0.91,22000,42400
+University of Central Missouri,Warrensburg, MO,NA,23,20000,14600,0.62,22400,44400
+SUNY Buffalo State,Buffalo, NY,880,20,25800,12900,0.90,21400,40800
+Robert Morris University,Moon Township, PA,1040,24,47400,26300,0.98,27000,47400
+Geneva College,Beaver Falls, PA,1070,25,39000,21700,1.00,25300,44800
+Coe College,Cedar Rapids, IA,1150,25,56600,23500,1.00,28100,46000
+Reed College,Portland, OR,1380,31,71500,29900,0.98,16000,51100
+Union University,Jackson, TN,1160,27,53000,27700,0.59,24800,44300
+Dominican College of Blauvelt,Orangeburg, NY,890,19,46700,21200,0.96,26000,47800
+The Master's University and Seminary,Santa Clarita, CA,1080,25,48900,28600,0.97,20500,45100
+Cabrini University,Radnor, PA,970,21,47900,26800,1.00,26800,46000
+George Fox University,Newberg, OR,1080,24,50100,30000,1.00,22400,49300
+Southern Connecticut State University,New Haven, CT,930,21,26500,16100,0.66,23300,46600
+Keiser University-Ft Lauderdale,Fort Lauderdale, FL,NA,NA,32200,28300,N/A,25800,42500
+Ashland University,Ashland, OH,1060,23,34800,22100,0.91,26300,41800
+New College of Florida,Sarasota, FL,1250,29,21100,12800,0.92,14900,43700
+University of North Carolina at Greensboro,Greensboro, NC,1040,23,21200,11200,0.67,22700,41900
+SUNY at Purchase College,Purchase, NY,1080,24,27000,19500,0.98,22500,45500
+North Carolina A & T State University,Greensboro, NC,930,20,18300,10300,0.82,29000,49300
+Hood College,Frederick, MD,NA,NA,56200,25600,1.00,27000,44400
+University of Michigan-Dearborn,Dearborn, MI,NA,25,22600,12200,0.78,25800,52400
+North Park University,Chicago, IL,1020,21,42400,21600,N/A,26300,44800
+Centenary University,Hackettstown, NJ,940,18,49500,23500,0.98,25500,42600
+Xavier University of Louisiana,New Orleans, LA,1000,23,37300,18700,0.67,26500,44700
+Eastern Mennonite University,Harrisonburg, VA,1030,24,50800,25200,0.99,23500,43600
+Gordon College,Wenham, MA,1050,26,51100,31400,1.00,27000,44700
+The Evergreen State College,Olympia, WA,1050,23,21900,14400,0.87,17600,44500
+The University of Montana-Western,Dillon, MT,1060,19,18900,11600,0.66,20900,35900
+University of Louisville,Louisville, KY,NA,26,27100,17400,0.90,19700,47000
+Notre Dame de Namur University,Belmont, CA,910,20,55700,31000,1.00,25200,53500
+Emerson College,Boston, MA,1230,28,66900,42200,0.88,23500,46800
+The College of Wooster,Wooster, OH,1210,27,63400,32000,0.97,26000,45800
+California Institute of the Arts,Valencia, CA,NA,NA,70600,54200,0.99,28500,48200
+William Jewell College,Liberty, MO,1130,25,49100,24500,0.91,25000,48200
+Eastern Connecticut State University,Willimantic, CT,NA,NA,27700,18300,0.70,23000,46300
+Wittenberg University,Springfield, OH,NA,NA,53300,27200,0.97,27000,48400
+Plymouth State University,Plymouth, NH,NA,NA,29000,22400,0.64,27000,43500
+Andrews University,Berrien Springs, MI,1100,25,40700,23600,0.68,27000,44400
+Neumann University,Aston, PA,890,18,47100,24300,0.83,27000,48200
+Missouri State University-Springfield,Springfield, MO,1090,24,21600,16000,0.80,22500,43000
+Gallaudet University,Washington, DC,890,17,38100,14600,0.98,16500,41900
+Hofstra University,Hempstead, NY,1170,27,62700,34500,0.95,23500,53000
+Fisher College,Boston, MA,NA,NA,52700,28200,0.85,19200,42800
+Mercer University,Macon, GA,1200,27,52500,22200,0.99,25000,46600
+Central Michigan University,Mount Pleasant, MI,1020,23,24700,15300,0.78,27000,45000
+Samford University,Birmingham, AL,1130,26,47600,31700,0.95,22500,45800
+Northern Arizona University,Flagstaff, AZ,NA,NA,27600,15800,0.69,20000,46700
+Everglades University,Boca Raton, FL,NA,NA,27100,26800,N/A,40900,44800
+Grand View University,Des Moines, IA,960,21,39900,20700,0.90,23900,42700
+Ouachita Baptist University,Arkadelphia, AR,1080,25,38500,20200,0.99,22500,42600
+Washington College,Chestertown, MD,NA,NA,62500,35100,0.92,24300,49900
+Roger Williams University,Bristol, RI,NA,NA,54000,37900,0.69,27000,50000
+The University of Alabama,Tuscaloosa, AL,1110,27,30100,21600,0.75,23800,49000
+Tuskegee University,Tuskegee, AL,1000,22,40300,30600,0.73,32100,50700
+Carroll University,Waukesha, WI,1050,24,45200,26000,1.00,27000,43300
+Eureka College,Eureka, IL,1020,22,37600,19800,1.00,25400,41600
+Western Michigan University,Kalamazoo, MI,1010,22,25700,16600,0.70,26600,48100
+Virginia Commonwealth University,Richmond, VA,1090,24,31900,22100,0.68,23300,47000
+Western Illinois University,Macomb, IL,NA,21,26500,17700,0.68,24700,44100
+University of Cincinnati-Main Campus,Cincinnati, OH,1160,26,28800,21500,0.42,23000,50700
+Cornell College,Mount Vernon, IA,1120,26,57300,30000,1.00,27000,45200
+Vanguard University of Southern California,Costa Mesa, CA,930,21,47900,23400,0.62,25000,45200
+St Thomas University,Miami Gardens, FL,950,19,48300,20200,N/A,22800,44400
+Milwaukee Institute of Art & Design,Milwaukee, WI,NA,NA,49100,26800,0.99,27000,42100
+Kutztown University of Pennsylvania,Kutztown, PA,980,20,27700,20800,0.62,26100,42600
+SUNY College of Agriculture and Technology at Cobleskill,Cobleskill, NY,1010,22,25400,15900,0.80,17400,39300
+Millersville University of Pennsylvania,Millersville, PA,1030,22,29600,20000,0.71,25500,45000
+University of the Incarnate Word,San Antonio, TX,900,19,47900,23000,1.00,27200,44200
+Howard University,Washington, DC,1140,25,44200,24400,0.63,27000,52200
+University of South Carolina-Upstate,Spartanburg, SC,950,21,25500,15500,0.67,22500,43500
+East Stroudsburg University of Pennsylvania,East Stroudsburg, PA,940,22,23500,17600,0.67,25000,42700
+Rockford University,Rockford, IL,1080,22,44200,25000,0.99,25000,44200
+College for Creative Studies,Detroit, MI,NA,23,59200,37900,N/A,27000,48200
+University of Alabama at Birmingham,Birmingham, AL,1140,25,26700,17300,0.89,21500,46000
+Massachusetts College of Liberal Arts,North Adams, MA,1010,23,25200,16100,0.84,24700,41400
+Bridgewater College,Bridgewater, VA,1010,23,50900,21700,1.00,27000,41800
+La Roche College,Pittsburgh, PA,920,20,43600,24100,0.80,26000,41700
+Millsaps College,Jackson, MS,1140,26,56600,24500,1.00,27000,47100
+Abilene Christian University,Abilene, TX,1050,24,49500,28900,0.99,25300,46400
+Hampden-Sydney College,Hampden-Sydney, VA,1120,25,61800,35700,1.00,27000,54800
+California Baptist University,Riverside, CA,980,22,47100,27800,0.75,27000,43300
+Mercy College,Dobbs Ferry, NY,NA,NA,38200,17200,0.87,23700,44300
+Alma College,Alma, MI,1030,24,53700,23100,0.99,27000,45700
+Southern Wesleyan University,Central, SC,NA,NA,37700,16000,1.00,27000,41600
+California University of Pennsylvania,California, PA,920,19,27000,19100,0.83,25000,41700
+Hendrix College,Conway, AR,1230,29,61500,24500,1.00,27000,45800
+Cleveland Institute of Art,Cleveland, OH,1120,23,58600,32900,1.00,29000,44000
+Springfield College,Springfield, MA,1010,26,54000,30500,1.00,24500,42300
+Hampton University,Hampton, VA,950,22,41500,26200,0.95,27000,49500
+Caldwell University,Caldwell, NJ,960,21,51400,20400,0.98,25800,44300
+Claflin University,Orangeburg, SC,890,19,33400,18500,0.95,32200,35100
+La Sierra University,Riverside, CA,910,19,46500,25100,1.00,30000,46200
+Old Dominion University,Norfolk, VA,1010,22,26200,16300,0.76,23500,47200
+Georgia State University,Atlanta, GA,1070,23,26600,15600,0.73,23700,47300
+Georgia College and State University,Milledgeville, GA,1130,24,28800,21200,0.40,22000,43300
+Minneapolis College of Art and Design,Minneapolis, MN,1070,23,50900,29200,0.99,25800,43300
+Whitworth University,Spokane, WA,1130,26,59200,29900,0.99,26000,46800
+Columbus College of Art and Design,Columbus, OH,NA,NA,50300,25200,0.99,27000,42000
+Goucher College,Baltimore, MD,NA,NA,61200,34500,1.00,26000,47100
+Siena Heights University,Adrian, MI,NA,NA,39800,18800,N/A,17700,42500
+Berry College,Mount Berry, GA,1150,27,51800,26600,1.00,23000,42000
+College of Charleston,Charleston, SC,1100,25,30400,20300,0.67,21500,44100
+SUNY College at Potsdam,Potsdam, NY,NA,NA,24700,15300,0.83,25000,40600
+California College of the Arts,San Francisco, CA,NA,NA,66500,41100,1.00,28000,52500
+Spring Arbor University,Spring Arbor, MI,1020,22,40900,19800,0.99,24000,39800
+Brenau University,Gainesville, GA,950,22,46000,21100,0.98,27000,42600
+Chaminade University of Honolulu,Honolulu, HI,970,21,42500,20000,0.93,22500,43200
+Cumberland University,Lebanon, TN,930,21,37100,22300,0.47,21700,43200
+Alverno College,Milwaukee, WI,NA,NA,41400,20300,0.99,31700,44200
+Carthage College,Kenosha, WI,1030,24,58600,29600,1.00,27000,46200
+Bennington College,Bennington, VT,NA,NA,72500,39800,0.99,26000,45800
+Maryland Institute College of Art,Baltimore, MD,1160,25,64400,45000,N/A,27000,45300
+Westminster College - Missouri,Fulton, MO,1020,24,41500,22100,1.00,26400,47200
+Western Kentucky University,Bowling Green, KY,980,23,22000,12300,0.63,24300,43100
+SUNY College of Technology at Delhi,Delhi, NY,NA,NA,24800,15000,N/A,15300,41300
+Mansfield University of Pennsylvania,Mansfield, PA,960,21,29400,18300,0.69,27000,41800
+Spalding University,Louisville, KY,990,21,37700,22400,N/A,25000,44000
+Thomas College,Waterville, ME,NA,NA,40700,22100,0.99,27000,44200
+Asbury University,Wilmore, KY,1120,25,41500,25500,0.69,25900,37400
+Mercyhurst University,Erie, PA,NA,NA,53000,23200,1.00,26700,42200
+Stetson University,DeLand, FL,NA,NA,62800,27100,0.99,27000,44100
+Rollins College,Winter Park, FL,NA,NA,69400,38400,1.00,26000,45700
+Florida Agricultural and Mechanical University,Tallahassee, FL,990,22,23400,14100,0.86,28500,45900
+Ringling College of Art and Design,Sarasota, FL,NA,NA,67100,47700,1.00,27000,45000
+Georgia Southern University,Statesboro, GA,1110,24,23400,17300,0.82,23000,46300
+Eastern University,Saint Davids, PA,1040,21,49400,24600,0.85,26500,42700
+Morehouse College,Atlanta, GA,980,22,49900,33700,0.83,27000,52100
+Champlain College,Burlington, VT,1130,25,59400,41200,0.96,26600,48800
+Roanoke College,Salem, VA,1090,24,60800,32200,0.98,27000,45200
+Bluffton University,Bluffton, OH,NA,22,47300,27000,0.99,27000,39200
+Davenport University,Grand Rapids, MI,NA,NA,31400,18000,N/A,26800,43700
+Belmont University,Nashville, TN,1150,27,52000,37200,0.88,21800,44000
+Bowling Green State University-Main Campus,Bowling Green, OH,1030,22,25200,18600,0.82,26000,44500
+Johnson & Wales University-Providence,Providence, RI,NA,NA,50400,30300,0.86,26900,44500
+Mills College,Oakland, CA,1080,26,65300,29700,0.92,23500,47300
+Ohio University-Main Campus,Athens, OH,1100,24,27900,23500,0.77,20500,48300
+Indiana University of Pennsylvania-Main Campus,Indiana, PA,950,20,28000,18500,0.67,27000,44200
+Winthrop University,Rock Hill, SC,1020,23,28900,17900,0.91,27000,41600
+North Carolina Central University,Durham, NC,880,18,22700,11600,0.83,31000,41600
+Edinboro University of Pennsylvania,Edinboro, PA,950,20,26000,15400,0.93,27000,40200
+Point Park University,Pittsburgh, PA,1000,23,45800,23900,0.99,27000,42500
+Kansas City Art Institute,Kansas City, MO,1090,23,55800,31100,1.00,27000,41600
+Guilford College,Greensboro, NC,NA,NA,52000,28600,0.86,26600,40800
+Upper Iowa University,Fayette, IA,870,21,45300,25100,0.85,24000,43100
+Virginia State University,Petersburg, VA,820,17,23100,16400,0.80,29500,42600
+Tiffin University,Tiffin, OH,NA,NA,38700,22500,0.97,26100,42600
+Birmingham Southern College,Birmingham, AL,1090,26,53700,26400,0.68,26900,45600
+Olivet College,Olivet, MI,1030,21,40900,22500,0.93,27000,43300
+Eckerd College,Saint Petersburg, FL,1110,25,60600,36000,0.99,27000,45300
+Wilmington College,Wilmington, OH,920,21,39400,25000,0.96,27000,41500
+School of the Art Institute of Chicago,Chicago, IL,1130,25,68900,46700,0.99,25700,44700
+Marywood University,Scranton, PA,1030,NA,51500,25300,1.00,27000,41000
+Southwestern Assemblies of God University,Waxahachie, TX,920,22,35300,27300,0.92,26300,38000
+Liberty University,Lynchburg, VA,1070,25,39300,26600,0.99,24200,41300
+Savannah College of Art and Design,Savannah, GA,1070,24,57700,43900,0.96,27000,43600
+Lincoln University,Lincoln University, PA,840,17,28000,18800,0.99,31500,47300
+Medaille College,Buffalo, NY,890,21,45000,15300,0.97,25000,38600
+Southern New Hampshire University,Manchester, NH,NA,NA,51600,37600,0.59,18800,45600
+Bard College,Annandale-On-Hudson, NY,NA,NA,72300,31500,0.98,26200,48500
+Kent State University at Kent,Kent, OH,1060,23,26100,19500,0.54,25800,43400
+High Point University,High Point, NC,1100,24,52300,41100,0.69,22400,45100
+Cornerstone University,Grand Rapids, MI,1000,22,41500,21400,1.00,25000,40500
+Glenville State College,Glenville, WV,850,19,23700,12900,0.87,24000,39700
+Delaware State University,Dover, DE,900,19,24000,13100,0.70,28500,43400
+Hampshire College,Amherst, MA,NA,NA,68700,36700,0.97,23500,45800
+Berklee College of Music,Boston, MA,NA,NA,65100,44300,0.35,25300,44700
+Johnson C Smith University,Charlotte, NC,830,17,32900,20400,0.95,32100,43300
+Tougaloo College,Tougaloo, MS,1020,20,23400,13400,N/A,35000,37100
+Philander Smith College,Little Rock, AR,NA,NA,26000,17200,0.94,31000,34700
