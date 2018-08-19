@@ -1,4 +1,4 @@
-﻿College Name,City,State,SAT,ACT,price-without-aid,price-with-avg-grant,students-with-need-who-get-grants,Average-Student-Debt,Early-career-earnings
+﻿College,City,State,SAT,ACT,price-without-aid,price-with-avg-grant,students-with-need-who-get-grants,Average-Student-Debt,Early-career-earnings
 Princeton University,Princeton, NJ,1500,34,67700,19000,1.00,7500,69800
 University of California-San Diego,La Jolla, CA,1310,30,32900,15900,0.95,18500,58600
 University of California-Irvine,Irvine, CA,1200,27,34700,14800,0.96,17000,54900
